@@ -66,6 +66,26 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.apresentacao__conteudo__links__link:hover {
+    background-color: #272727;
+}
+
 .titulo-destaque {
     color: #22d4fd;
+}
+
+#nome-destaque:hover {
+    color: #22d4fd;
+}
+
+#java-destaque:hover {
+    color: red;
+}
+
+#odoo-destaque:hover {
+    color: plum;
+}
+
+#python-destaque:hover {
+    color: yellow;
 }
