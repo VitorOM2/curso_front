@@ -6,14 +6,13 @@
 }
 
 body {
-    height: 100vh;
     box-sizing: border-box;
     background-color: #000000;
     color: #f6f6f6;
 }
 
 .apresentacao {
-    margin: 10% 15%;
+    padding: 8% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -88,4 +87,13 @@ body {
 
 #python-destaque:hover {
     color: yellow;
+}
+
+.rodape {
+    color: #000000;
+    background-color: #22d4fd;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    padding: 24px;
 }
